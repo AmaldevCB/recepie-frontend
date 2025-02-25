@@ -1,1 +1,1 @@
-export const serverUrl='http://localhost:4000'
+export const serverUrl='https://recepie-server-g6dy.onrender.com'
